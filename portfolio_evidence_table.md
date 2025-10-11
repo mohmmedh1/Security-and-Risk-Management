@@ -48,5 +48,4 @@ This table summarises artefacts, activities, and evidence from Units 1–12 of t
 
 ---
 
-## 🗂 Evidence Repository Structure
 

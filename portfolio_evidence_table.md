@@ -2,9 +2,7 @@
 
 **Programme:** MSc Cyber Security  
 **Module:** Security Risk Management  
-**Student Name:** Mohammed Ali Harahsheh  
-**Student ID:** [Add Your ID]  
-**Date:** [Insert Submission Date]  
+
 
 ---
 

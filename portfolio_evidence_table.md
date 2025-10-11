@@ -1,12 +1,5 @@
 # Security Risk Management e-Portfolio Evidence Table
 
-**Programme:** MSc Cyber Security
-**Module:** Security Risk Management
-**Student Name:** Mohammed Ali Harahsheh
-**Student ID:** [Add your ID]
-**Date:** [Insert Date]
-
----
 
 ## 📘 Purpose
 

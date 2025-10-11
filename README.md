@@ -1,5 +1,6 @@
 # Reflective Piece: My Personal Learning Journey
 
+> **Word count (excluding references):** 1,000 words
 
 ---
 
@@ -81,4 +82,3 @@ NIST (2012) *Special Publication 800-30 Revision 1: Guide for Conducting Risk As
 Olsen, D. and Desheng, W. (2020) *Quantitative Risk Modelling in Finance and Engineering*. New York: Springer.
 Rolfe, G., Freshwater, D. and Jasper, M. (2001) *Critical Reflection in Nursing and the Helping Professions: A User’s Guide*. Basingstoke: Palgrave Macmillan.
 Spears, J. and Barki, H. (2010) ‘User participation in information systems security risk management’, *MIS Quarterly*, 34(3), pp. 503–522.
-

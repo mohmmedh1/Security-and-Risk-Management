@@ -1,6 +1,5 @@
 # Reflective Piece: My Personal Learning Journey
 
-> **Word count (excluding references):** 1,000 words
 
 ---
 

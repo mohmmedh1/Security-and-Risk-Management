@@ -18,7 +18,6 @@ While developing the **Risk Identification Report (Unit 6)**, I applied ISO fram
 
 The **Monte Carlo simulation** exercise in Unit 7 further enhanced my understanding of probability and uncertainty in decision-making (Olsen and Desheng, 2020; Aven, 2016). These tools helped me recognise that quantitative modelling supports better business communication and resource prioritisation.
 
-*(Evidence: /units/Unit6_Practical_Standards.docx, /units/Unit7_QRM_Concepts.docx)*
 
 ---
 
@@ -30,7 +29,6 @@ A major challenge was achieving uniformity across contributions. To address this
 
 This task refined my ability to interpret complex data, lead collaboration, and communicate across technical and non-technical members. These leadership and coordination skills are critical for my professional growth, particularly as I aim to bridge technical analysis with executive-level decision-making.
 
-*(Evidence: /evidence/Peer_Review.pdf, /units/Unit6_Practical_Standards.docx)*
 
 ---
 
@@ -42,7 +40,6 @@ Disagreements arose about prioritising risk likelihood versus business impact. T
 
 Seminar activities such as *The Role of AI in Risk Management (Unit 2)* and *CPS Threat Modelling (Unit 4)* further deepened my understanding of human-AI collaboration in risk analysis (Aijaz and Nazir, 2024). These engagements strengthened my communication, empathy, and adaptability — vital traits for coordinating cybersecurity initiatives across technical and managerial stakeholders.
 
-*(Evidence: /units/Unit2_Risk_Process.docx, /units/Unit4_Threat_Tools.docx)*
 
 ---
 
@@ -54,7 +51,6 @@ The **Executive Summary (Unit 11)** was a milestone in my development. Comparing
 
 Personally, I improved my **time management**, **critical thinking**, and **communication skills**. I now ensure each technical decision supports business continuity and aligns with institutional resilience goals. This transformation strengthened my ambition to advance into a cybersecurity leadership role where I can integrate governance, risk, and compliance frameworks effectively.
 
-*(Evidence: /units/Unit11_Executive_Summary.docx, /evidence/Tutor_Recommendation.txt)*
 
 ---
 

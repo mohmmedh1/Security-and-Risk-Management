@@ -1,29 +1,3 @@
-# 🎓 MSc Cyber Security – Security Risk Management e-Portfolio  
-**Student:** Mohammed Ali Harahsheh  
-**University:** University of Essex Online  
-**Module Code:** SRM_PCOM6E  
-**Academic Year:** 2025  
-
----
-
-## 📘 Module Overview  
-This e-Portfolio demonstrates my applied learning throughout the Security Risk Management module, showing how I integrated ISO 31000, NIST SP 800-30, ISO/IEC 27005, and GDPR frameworks with quantitative risk-modelling techniques to strengthen information-security governance within my workplace.  
-
-The artefacts evidence both theoretical understanding and professional application through seminars, workshops, case studies, and quantitative exercises.  
-
----
-
-## 🎯 Learning Outcomes  
-1. Identify and analyse information-security risks using structured frameworks such as ISO 31000 and ISO/IEC 27005.  
-2. Apply qualitative and quantitative methodologies (STRIDE, Monte Carlo, Bayesian analysis) to assess uncertainty and prioritise mitigation.  
-3. Develop and evaluate business-aligned controls for continuity and disaster recovery.  
-4. Integrate ethical, legal, and professional principles into security-governance decisions.  
-5. Reflect critically on learning to enhance professional practice and leadership.  
-
----
-
-## 🧩 Evidence of Learning  
-
 | Unit | Title / Focus | Evidence | Key Learning |
 |------|----------------|-----------|--------------|
 | **1** | Introduction to Security and Risk | [U1-D1-initial post.jpg](U1/U1-D1-initial%20post.jpg), [U1-D1-Reply to Peter Initial Post.jpg](U1/U1-D1-Reply%20to%20Peter%20Initial%20Post.jpg), [U1-D1-Peer to my initil post.jpg](U1/U1-D1-Peer%20to%20my%20initil%20post.jpg), [U1-D1-Summary Post.jpg](U1/U1-D1-Summary%20Post.jpg) | Defined risk concepts and introduced the Risk Management Process (RMP). |
@@ -38,9 +12,7 @@ The artefacts evidence both theoretical understanding and professional applicati
 | **10** | DR Solutions Design & Review | [U10.md](U10/U10.md) | Linked Bow-Tie Risk Analysis to DR planning and validated RTO/RPO metrics. |
 | **11** | Future Trends in Security and Risk Management | [U11.md](U11/U11.md) | Evaluated AI, Zero Trust, RegTech, Quantum Security, and ESG trends shaping future SRM. |
 | **12** | The Great Debate – The Future of SRM | [U12.md](U12/U12.md) | Evaluated AI & ML impact on SRM; analysed ethical governance and predictive analytics. |
-| **Reflection** | End-of-Module Reflection & Evidence Table | [Reflective Piece.md](Reflection/Reflective%20Piece.md) | Synthesised learning using Rolfe’s (2001) reflective model and mapped evidence to learning outcomes. |
-| **Final e-Portfolio Submission** | Complete Portfolio (Units 1–12 + Reflection + Evidence) | [e-Portfolio Final.pdf](e-Portfolio%20Final.pdf) | Consolidated final version submitted for MSc Cyber Security – Research Methods & Professional Practice. |
-
+| **Reflection** | End-of-Module Reflection & Personal Learning Journey | [Reflective Piece.md](Reflection/Reflective%20Piece.md) – *Personal learning journey reflecting on growth, teamwork, and applied skills across all units.*<br>[Security Risk Management – Reflection.pdf](Reflection/Security%20Risk%20Management%20-Reflection.pdf) – *Formal academic reflection aligned with MSc assessment and submitted via Turnitin.* |
 
 ---
 
@@ -61,4 +33,4 @@ This portfolio evidences readiness to lead data-driven, ethically grounded cyber
 
 ---
 
-© 2025 Mohammed Ali Harahsheh — MSc Cyber Security | University of Essex Online  
+© 2025 Mohammed Ali Harahsheh — MSc Cyber Security | University of Essex Online

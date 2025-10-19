@@ -1,9 +1,5 @@
 # 🧩 Unit 4: Risk Identification and Modelling – Case Study  
 
-## 🎓 Seminar Title  
-**Risk Identification and Modelling – Case Study**
-
----
 
 ## 📚 Reference Paper  
 Jbair, M., Al-Awadi, A., Al-Hammadi, F. and Al-Nashif, Y. (2022) *Threat Modelling in Cyber-Physical Energy Systems*, *International Journal of Critical Infrastructure Protection*, 39, pp. 1–14.

@@ -43,7 +43,7 @@ This project improved my ability to apply structured frameworks collaboratively 
 ---
 
 ## 📎 Evidence
-- Final team report: [Group1 work.docx](Group1%20work.docx)  
+- Final team report: [Group1 work.pdf](Group1%20work.pdf)  
 - My individual reflection: U6_Development_Team_Project.md  
 - Collaboration proof: meeting notes & shared-folder logs (Teams).  
 

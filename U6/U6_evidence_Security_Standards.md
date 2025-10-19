@@ -1,41 +1,76 @@
-Unit 6 Summary – Security Standards Seminar
+# 🧩 Unit 6: Security Standards Seminar – GDPR, PCI-DSS, and HIPAA  
 
-Purpose:
-To explore key information security standards (GDPR, PCI-DSS, HIPAA) and evaluate how they apply to the company scenario used in the module assessment.
+**Purpose:**  
+To explore and compare key information-security standards — **GDPR**, **PCI-DSS**, and **HIPAA** — and evaluate their application to the company scenario used in the module assessment.  
 
-Main Standards Reviewed:
+---
 
-GDPR (General Data Protection Regulation): Protects EU residents’ personal data — relevant to any organisation operating in or serving the EU.
+## 🧠 Main Standards Reviewed  
 
-PCI-DSS (Payment Card Industry Data Security Standard): Ensures secure processing and storage of cardholder data for online payment systems.
+### **GDPR (General Data Protection Regulation)**  
+Protects EU residents’ personal data and governs how organisations collect, process, and store it.  
+Relevant to any company that **operates in or provides services to EU citizens**.  
 
-HIPAA (Health Insurance Portability and Accountability Act): U.S. healthcare data protection standard — referenced for its governance and audit principles.
+### **PCI-DSS (Payment Card Industry Data Security Standard)**  
+Ensures secure **processing, storage, and transmission** of cardholder data.  
+Critical for e-commerce and online payment environments.  
 
-Evaluation Findings:
+### **HIPAA (Health Insurance Portability and Accountability Act)**  
+U.S. healthcare data-protection framework, referenced for its **auditability**, **accountability**, and **governance** principles.  
+Though not directly applicable, its best practices inform robust internal data-management processes.  
 
-The company must comply with GDPR and PCI-DSS due to its European operations and online payment processing.
+---
 
-Key compliance gaps include lack of data retention policies, access controls, and documented audit trails.
+## ⚖️ Evaluation Findings  
 
-HIPAA-style logging and accountability measures could enhance internal governance even if not legally required.
+- The company must comply with **GDPR** and **PCI-DSS** due to its **EU operations** and **online payment systems**.  
+- Key compliance gaps identified:  
+  - Absence of formal **data-retention policies**.  
+  - Weak **access controls** and **MFA** coverage.  
+  - Lack of documented **audit trails** and **periodic compliance checks**.  
+- Adopting **HIPAA-style accountability and logging** could enhance governance and transparency, even if not legally mandated.  
 
-Recommendations:
+---
 
-Establish a unified compliance framework combining GDPR and PCI-DSS controls.
+## 🧩 Recommendations  
 
-Implement encryption, MFA, and RBAC to secure user and payment data.
+1. **Unified Compliance Framework:**  
+   Integrate GDPR and PCI-DSS controls into a single governance model to reduce duplication and maintain consistency.  
 
-Conduct regular audits, staff training, and vendor compliance checks.
+2. **Technical Controls:**  
+   Implement **encryption**, **multi-factor authentication (MFA)**, and **role-based access control (RBAC)** for sensitive data and payment systems.  
 
-Assign a Data Protection Officer (DPO) and maintain incident response procedures.
+3. **Operational Controls:**  
+   Conduct **regular internal audits**, **staff training**, and **vendor compliance reviews** to ensure continuous improvement.  
 
-Assumptions:
+4. **Governance & Oversight:**  
+   Appoint a **Data Protection Officer (DPO)** and establish formal **incident-response** and **breach-notification** procedures.  
 
-The company handles both EU personal data and online transactions.
+---
 
-Cloud-based systems are used, requiring shared compliance responsibility.
+## 🧮 Assumptions  
 
-No healthcare data is processed (HIPAA applied only as best practice).
+- The company processes both **EU personal data** and **online transactions**.  
+- Operations are **cloud-based**, introducing shared compliance responsibilities between provider and client.  
+- No healthcare data is processed; **HIPAA** is applied only as a **best-practice reference** for governance.  
 
-Reflection:
-This activity clarified how international standards overlap to ensure confidentiality, integrity, and accountability. I learned that true compliance is not just a checklist — it’s an ongoing process integrating legal, technical, and organisational perspectives. This understanding enhanced my ability to evaluate business systems through a risk-and-governance lens, directly supporting my professional development as a cybersecurity leader.
+---
+
+## 💬 Reflection  
+
+This activity deepened my understanding of how **international security standards overlap** to ensure confidentiality, integrity, and accountability.  
+I learned that compliance is not a one-off checklist but an **ongoing, risk-based governance process** integrating **legal, technical, and organisational** perspectives.  
+
+The seminar enhanced my ability to assess systems through a **risk-and-governance lens**, strengthening my capability to design compliance-aligned cybersecurity strategies.  
+This insight will directly inform how I approach **policy design, audit readiness, and data-protection leadership** in my professional role.  
+
+---
+
+## 🔖 References  
+
+- Data Protection Commission (2020) *Case Studies 2014–2018.* Dublin: DPC Ireland.  
+- European Union (2016) *General Data Protection Regulation (Regulation (EU) 2016/679).* *Official Journal of the European Union,* L 119, pp. 1–88.  
+- PCI Security Standards Council (2022) *Payment Card Industry Data Security Standard (PCI-DSS) v4.0.* Wakefield, MA: PCI SSC.  
+- U.S. Department of Health & Human Services (2013) *Health Insurance Portability and Accountability Act (HIPAA) Privacy Rule.* Washington, DC: HHS.  
+
+---

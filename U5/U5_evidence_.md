@@ -1,80 +1,78 @@
-Unit 5: E-Portfolio Activity – GDPR Case Studies
+# 🧩 Unit 5: E-Portfolio Activity – GDPR Case Studies  
 
-Case Study Title: Access Request made to NAMA
+---
 
-Source: Data Protection Commission (2020) – Case Studies 2014–2018
+## 🧠 1. Specific Aspect of GDPR Addressed  
 
-Case Year Investigated: 2017
+This case focused on two key provisions of the General Data Protection Regulation (GDPR):  
+- **Right of Access** (*Article 15 GDPR*)  
+- **Lawful Processing** (*Article 6 GDPR*)  
 
-What is the specific aspect of GDPR that your case study addresses?
+A data subject submitted a **Subject Access Request (SAR)** to the **National Asset Management Agency (NAMA)**, requesting access to all personal data held about him.  
+NAMA refused the request under **Section 42(k) of the Irish Data Protection Act 2018**, which allows certain public bodies to restrict access where disclosure could threaten market stability or compromise financial oversight.  
 
-This case focused on the Right of Access (Article 15 GDPR) and Lawful Processing (Article 6 GDPR).
+The **Data Protection Commission (DPC)** investigated whether this refusal complied with the **principles of transparency and proportionality**, ensuring that the exemption was applied only when strictly necessary.  
 
-A data subject submitted a Subject Access Request (SAR) to the National Asset Management Agency (NAMA), seeking access to all personal data held about him. NAMA refused the request, citing Section 42(k) of the Irish Data Protection Act 2018, which allows certain public bodies to restrict access if disclosure could affect market stability or financial oversight functions.
+This case explored the balance between **individual privacy rights** and the **legitimate interests of state financial regulation**, underscoring the importance of narrow, evidence-based application of GDPR exemptions.
 
-The DPC investigated whether NAMA’s refusal complied with GDPR transparency and proportionality principles, ensuring that the exemption was applied narrowly and only where strictly necessary.
+---
 
-This case examined the tension between individual privacy rights and the legitimate interests of state financial regulation, highlighting the need for a clear justification when restricting subject access under GDPR.
+## ⚖️ 2. How It Was Resolved  
 
-2. How It Was Resolved
+The DPC reviewed the correspondence and determined that NAMA had acted **lawfully**, since Section 42(k) was appropriately applied in view of NAMA’s regulatory role.  
 
-The Data Protection Commission (DPC) reviewed the correspondence and determined that NAMA had acted lawfully, as the exemption applied under Section 42(k) was relevant due to NAMA’s financial oversight role.
+However, the DPC advised NAMA to improve **communication with data subjects** by clearly stating:  
+- The **specific legal grounds** for refusal; and  
+- The **data categories withheld** and the **rationale for non-disclosure**.  
 
-However, the DPC advised NAMA to improve its communication with data subjects by clearly outlining:
+No enforcement action was required, but the DPC stressed that **future refusals must reference** the legislative provision relied upon and the justification for applying it.  
 
-The specific legal grounds for refusal, and
+This outcome illustrates that **GDPR rights are qualified, not absolute** — limitations are permitted only when supported by transparency, documentation, and legitimate purpose.
 
-The data categories withheld and rationale for non-disclosure.
+---
 
-The case concluded with the DPC confirming that no further action was necessary but emphasised that future refusals must include explicit references to the legislative basis and the reasoning for applying exemptions.
+## 🏛️ 3. Actions I Would Take as an Information Security Manager  
 
-This case illustrates how GDPR rights are not absolute and can be limited under certain conditions — but only with transparency and documentation.
+If such a case arose within my organisation, I would ensure all Subject Access Requests (SARs) and exemptions are managed in full compliance with **GDPR Articles 12–15** and applicable national law.  
 
-3. What I Would Do as an Information Security Manager to Mitigate Similar Issues
+**Mitigation measures would include:**  
 
-If this issue arose within my organisation, I would ensure that our handling of access requests and exemptions followed best practice under GDPR Articles 12–15 and relevant national data protection laws.
+### 🔹 Clear SAR Procedures and Templates  
+Establish standard templates for SAR responses, detailing whether exemptions apply and specifying the legal justification.  
 
-My mitigation measures would include:
+### 🔹 Documented Exemption Register  
+Maintain an internal log for all restricted SARs, referencing the **relevant legal basis** (e.g., Section 42 of the Data Protection Act 2018).  
 
-Clear SAR Procedures and Templates:
+### 🔹 Transparency and Justification  
+When exemptions apply, provide a clear, high-level explanation to the requester about why data cannot be released, ensuring proportionality and fairness.  
 
-Create standardised templates for responding to SARs, ensuring that all replies specify whether exemptions apply and under what legal justification.
+### 🔹 Collaboration Between Legal and Security Teams  
+Coordinate reviews between the **Data Protection Officer (DPO)**, **Legal**, and **Information Security** teams to validate the lawful basis for each decision.  
 
-Documented Exemption Register:
+### 🔹 Regular Compliance Training  
+Deliver workshops to raise awareness about GDPR exemptions, lawful processing, and data-subject rights among relevant staff.  
 
-Maintain an internal log of all SARs where access was restricted, citing the corresponding legal provisions (e.g., Section 42 of the Data Protection Act 2018).
+### 🔹 Audit and Oversight  
+Implement periodic reviews to confirm that exemptions are **justified, consistent, and auditable**, preventing over-application or procedural errors.  
 
-Transparency and Justification:
+These measures would promote **accountability**, **consistency**, and **trust**, ensuring a fair balance between data-subject rights and public-interest obligations.
 
-Even when exemptions apply, provide a high-level explanation to the requester about why data cannot be released — without compromising regulatory or operational confidentiality.
+---
 
-Collaboration Between Legal and Security Teams:
+## 💬 4. Reflection  
 
-Coordinate between the Data Protection Officer (DPO), Legal, and Information Security teams to ensure each access decision is reviewed for proportionality and lawful basis.
+This case reinforced that GDPR compliance extends beyond simply granting access — it requires **transparency, proportionality, and governance discipline**.  
+I learned that exemptions must always be **narrowly applied** and **fully documented**, with clear reasoning accessible to oversight bodies and data subjects alike.  
 
-Regular Compliance Training:
+As an Information Security Manager, I now recognise the importance of **cross-functional collaboration** between technical and legal teams to ensure that every data-protection decision is **evidence-based and defensible**.  
+This insight will guide future compliance procedures within my workplace, ensuring that all SARs are handled ethically and transparently.
 
-Conduct workshops on GDPR exemptions and lawful processing to raise awareness among staff, especially those managing financial or government data.
+---
 
-Audit and Oversight:
+## 🔖 References  
 
-Implement periodic reviews to ensure exemption usage is justified and consistently applied, preventing misuse or over-application of restrictions.
+- Data Protection Act 2018 (Ireland) Section 42(k): *Restrictions on Data-Subject Rights.* Dublin: Government of Ireland.  
+- Data Protection Commission (2020) *Case Studies 2014–2018.* Dublin: Data Protection Commission Ireland. Available at: [https://www.dataprotection.ie/en/case-studies](https://www.dataprotection.ie/en/case-studies) (Accessed: 11 October 2025).  
+- European Union (2016) *General Data Protection Regulation (Regulation (EU) 2016/679).* *Official Journal of the European Union,* L 119, pp. 1–88.  
 
-These measures would strengthen compliance, uphold accountability, and ensure my organisation demonstrates a fair balance between data subject rights and public interest obligations.
-
-4. Reflection
-
-This case reinforced my understanding that GDPR compliance extends beyond simple access rights — it involves balancing transparency, proportionality, and lawful limitation.
-Through this case, I learned that exemptions under GDPR must always be applied transparently and narrowly, accompanied by clear documentation.
-
-As an Information Security Manager, this highlights the importance of cross-functional governance and communication between technical and legal departments, ensuring every GDPR-related decision is evidence-based and auditable.
-
-References
-
-Data Protection Commission (2020) Case Studies 2014–2018. Dublin: Data Protection Commission Ireland. Available at:
-
-https://www.dataprotection.ie/en/case-studies (Accessed: 11 October 2025).
-
-European Union (2016) General Data Protection Regulation (Regulation (EU) 2016/679). Official Journal of the European Union L 119, pp. 1–88.
-
-Data Protection Act 2018 (Ireland) Section 42(k): Restrictions on Data Subject Rights. Dublin: Government of Ireland.
+---

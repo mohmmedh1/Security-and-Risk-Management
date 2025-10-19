@@ -10,7 +10,7 @@
 This e-Portfolio demonstrates my applied learning throughout the *Security Risk Management* module, showing how I integrated **ISO 31000**, **NIST SP 800-30**, **ISO/IEC 27005**, and **GDPR** frameworks with **quantitative risk-modelling techniques** to strengthen information-security governance within my workplace.  
 
 The artefacts evidence both theoretical understanding and professional application through seminars, workshops, case studies, and quantitative exercises.  
-Full details of all artefacts and learning evidence are provided in the [**Evidence Table – Security Risk Management**](EvidenceTable.md).
+
 
 ---
 
@@ -23,7 +23,8 @@ Full details of all artefacts and learning evidence are provided in the [**Evide
 
 ---
 
-## 📂 e-Portfolio Contents
+## 🧩 Evidence of Learning
+A detailed breakdown of artefacts, activities, and outcomes across Units 1–12 is available in the below table 
 
 | Unit | Title / Focus | Evidence | Key Learning |
 |------|----------------|-----------|---------------|

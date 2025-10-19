@@ -1,6 +1,6 @@
 # 🧩 Unit 2: Users, Assessments and the Risk Management Process  
-
-**Seminar Title:** The Role of AI in Risk Management – A Case Study  
+**Seminar Title:** The Role of AI in Risk Management – A Case Study 
+Spears, J. and Barki, H. (2010) ‘User participation in information systems security risk management’, *MIS Quarterly*, 34(3), pp. 503–522.  
 ---
 
 ## 🧠 Workshop Activity – Questions and Answers  

@@ -37,7 +37,7 @@ A detailed breakdown of artefacts, activities, and outcomes across Units 1–12 
 | **8** | Social Engineering Threat Modelling | [`U8_Evidance.md`](U8/U8_Evidance.md), [`U8-D2-Initial Post.jpg`](U8/U8-D2-Initial%20Post.jpg), [`U8-D2-Peer Responce.jpg`](U8/U8-D2-Peer%20Responce.jpg) | Combined Attack Tree & Markov Chain methods (Aijaz & Nazir 2024) to quantify SETs. |
 | **9** | Business Continuity & Disaster Recovery | [`U9.md`](U9/U9.md) | Designed BC/DR strategies integrating RTO/RPO metrics and recovery testing. |
 | **10** | DR Solutions Design & Review | [`u10.md`](U10/u10.md) | Linked Bow-Tie Risk Analysis to DR planning and validated RTO/RPO metrics. |
-| **11** | Future Trends in Security and Risk Management | [`U11_Executive_Summary.md`](U11/U11.md) | Evaluated AI, Zero Trust, RegTech, Quantum Security, and ESG trends shaping future SRM strategies. |
+| **11** | Future Trends in Security and Risk Management | [`U11.md`](U11/U11.md) | Evaluated AI, Zero Trust, RegTech, Quantum Security, and ESG trends shaping future SRM strategies. |
 | **12** | Future of Security Risk Management – AI Debate | [`U12.md`](U12/U12.md) | Evaluated AI & ML impact on SRM; analysed ethical governance and predictive analytics. |
 | **Reflection** | End-of-Module Reflection & Evidence Table | [`Reflective Piece.md`](U12/Reflective%20Piece.md), [`e-Portfolio Final.pdf`](U12/e-Portfolio%20Final.pdf) | Synthesised learning via Rolfe (2001) model and mapped evidence to outcomes. |
 

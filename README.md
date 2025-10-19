@@ -39,6 +39,8 @@ The artefacts evidence both theoretical understanding and professional applicati
 | **11** | Future Trends in Security and Risk Management | [U11.md](U11/U11.md) | Evaluated AI, Zero Trust, RegTech, Quantum Security, and ESG trends shaping future SRM. |
 | **12** | The Great Debate – The Future of SRM | [U12.md](U12/U12.md) | Evaluated AI & ML impact on SRM; analysed ethical governance and predictive analytics. |
 | **Reflection** | End-of-Module Reflection & Evidence Table | [Reflective Piece.md](Reflection/Reflective%20Piece.md) | Synthesised learning using Rolfe’s (2001) reflective model and mapped evidence to learning outcomes. |
+| **Final e-Portfolio Submission** | Complete Portfolio (Units 1–12 + Reflection + Evidence) | [e-Portfolio Final.pdf](e-Portfolio%20Final.pdf) | Consolidated final version submitted for MSc Cyber Security – Research Methods & Professional Practice. |
+
 
 ---
 

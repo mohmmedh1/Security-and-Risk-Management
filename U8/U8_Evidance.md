@@ -1,76 +1,82 @@
-Unit 8 Seminar – Quantitative Risk Modelling: Case Study
+# 🧩 Unit 8: Quantitative Risk Modelling – Case Study  
 
-Title: Quantitative Risk Modelling – Case Study
-Reading: Aijaz, M. and Nazir, M. (2024) Modelling and Evaluating Social Engineering Threats in Cyber Systems. Journal of Information Security and Applications, 75, pp. 102–119.
+**Title:** Quantitative Risk Modelling – Case Study  
+**Reading:** Aijaz, M. and Nazir, M. (2024) *Modelling and Evaluating Social Engineering Threats in Cyber Systems.* *Journal of Information Security and Applications,* 75, pp. 102–119.  
 
-1. Main Challenges in Modelling and Evaluating Social Engineering Threats (SETs)
+---
 
-The study highlights several key challenges in modelling and quantifying Social Engineering Threats (SETs):
+## 🧠 1. Main Challenges in Modelling and Evaluating Social Engineering Threats (SETs)  
 
-Human factors and unpredictability: Human behaviour cannot be easily parameterised; emotions, trust, and situational awareness vary across individuals.
+*Aijaz and Nazir (2024)* identify several challenges when modelling **Social Engineering Threats (SETs):**  
 
-Lack of structured models: Traditional risk assessment frameworks often overlook the psychological and contextual aspects of manipulation.
+- **Human unpredictability:** Emotions, trust, and awareness vary across individuals and contexts, making human behaviour difficult to quantify.  
+- **Lack of structured models:** Traditional frameworks overlook psychological and contextual manipulation factors.  
+- **Evolving attack dynamics:** Attackers continuously adapt techniques, rendering static models obsolete.  
 
-Dynamic and evolving attack patterns: Attackers adapt techniques quickly, making static models ineffective.
+To address these challenges, the authors propose a **hybrid quantitative framework** that combines **Attack Tree Modelling** and **Markov Chain Modelling** to simulate how SETs progress probabilistically through various stages.  
 
-Aijaz and Nazir (2024) address these issues by introducing a hybrid quantitative framework combining Attack Tree Modelling and Markov Chain Modelling to simulate attack progressions and outcomes probabilistically.
+---
 
-2. Persuasion Principles and Modalities in SETs
+## 🧩 2. Persuasion Principles and Modalities in SETs  
 
-The study draws on Cialdini’s persuasion principles (e.g., authority, scarcity, reciprocity, and social proof) to explain how attackers exploit cognitive biases.
-By categorising social engineering modalities — such as phishing, baiting, and pretexting — the authors show how these techniques manipulate trust and perception.
+Drawing on **Cialdini’s persuasion principles** — authority, scarcity, reciprocity, and social proof — the study explains how attackers exploit **cognitive biases** to manipulate users.  
+By categorising **social-engineering modalities** such as phishing, baiting, and pretexting, Aijaz and Nazir demonstrate how these tactics affect perception and decision-making.  
 
-Analysing persuasion principles systematically is vital because it allows security teams to:
+Systematic analysis of persuasion principles enables organisations to:  
+- Identify **behavioural vulnerabilities**;  
+- Design **targeted awareness training**; and  
+- Quantify how specific psychological levers influence **attack success rates**.  
 
-Identify behavioural vulnerabilities.
+This integration of **psychological theory** with **quantitative modelling** enhances prediction accuracy for SET-related incidents, bridging human factors and data analytics.  
 
-Design targeted awareness training.
+---
 
-Quantify how different psychological levers increase attack success rates.
+## ⚙️ 3. Role of Attack Tree and Markov Chain Models  
 
-This approach links psychological theory with quantitative modelling, improving prediction accuracy for SET-related incidents.
+### **Attack Tree Model:**  
+Breaks down complex social-engineering attacks into logical sub-events (e.g., *initial contact → data request → credential theft*).  
+Each node or branch is assigned a probability based on historical evidence or expert judgement.  
 
-3. Role of Attack Tree and Markov Chain Models
+### **Markov Chain Model:**  
+Represents transition probabilities between attack states — such as moving from initial deception to exploitation — capturing the **dynamic nature of human interactions** in SETs.  
 
-Attack Tree Model:
-Decomposes complex attacks into smaller, logical sub-events (e.g., initial contact → data request → credential theft). Each branch is assigned a probability based on prior evidence or expert judgment.
+Together, these models quantify:  
+- **Attack Occurrence Probability (AOP)** – the likelihood that an attack attempt occurs;  
+- **Attack Success Probability (ASP)** – the likelihood of successful compromise under specific behavioural or contextual conditions.  
 
-Markov Chain Model:
-Represents the transition probabilities between attack states — such as moving from initial deception to exploitation.
-This dynamic modelling captures the evolving nature of human interaction in social engineering scenarios.
+This dual modelling approach fuses **qualitative human elements** with **quantitative statistical reasoning**, producing measurable outputs for **decision-making and risk prioritisation**.  
 
-Together, these models enable the calculation of:
+---
 
-Attack Occurrence Probability (AOP) – the likelihood that an attack will be attempted.
+## 🏛️ 4. Policy and Framework Implications  
 
-Attack Success Probability (ASP) – the likelihood that it will succeed given specific contextual and behavioural conditions.
+The study’s outcomes provide strong guidance for institutional cybersecurity policy and governance frameworks:  
 
-This dual modelling approach bridges qualitative human aspects with quantitative statistical reasoning, providing measurable outputs for decision-making.
+- Develop **evidence-based training programmes** that simulate persuasion tactics in realistic scenarios.  
+- Establish **risk thresholds** for SET incidents using quantified ASP and AOP metrics.  
+- Integrate **behavioural analytics** into SOC monitoring to detect manipulation indicators or insider threats.  
+- Adopt **adaptive awareness frameworks** that evolve with emerging social-engineering trends.  
 
-4. Policy and Framework Implications
+Embedding quantitative SET models into **enterprise risk management systems** allows organisations to transition from reactive awareness to **proactive, data-driven prevention**.  
 
-The study’s findings provide actionable insights for policy development and governance frameworks:
+---
 
-Support for evidence-based training programmes that focus on real-world persuasion tactics.
+## 💬 5. Reflection  
 
-Establishment of risk thresholds for social engineering incidents using quantified ASP and AOP metrics.
+This seminar transformed my understanding of how **quantitative models can represent human-centric risks**.  
+Previously, I viewed social engineering primarily as a qualitative challenge. However, through Aijaz and Nazir’s framework, I learned that **Markov Chains** and **Attack Trees** can effectively quantify behavioural and contextual risks.  
 
-Integration of behavioural analytics into security monitoring tools to detect early signs of manipulation or insider compromise.
+The focus on **persuasion principles** reinforced that human factors are **measurable and integral to cybersecurity risk analysis**.  
+By combining behavioural science with statistical modelling, I can now approach awareness and governance frameworks through a **data-driven lens**, aligning psychology with cybersecurity strategy.  
 
-Adoption of adaptive awareness frameworks that evolve with emerging attack trends.
+This insight directly supports my professional goal of implementing **adaptive, evidence-based awareness programmes** that reduce the success probability of social-engineering attacks.  
 
-By integrating quantitative risk models into institutional cybersecurity policies, organisations can move from reactive awareness to proactive, data-driven prevention strategies.
+---
 
-5. Reflection
+## 🔖 References  
 
-This seminar expanded my understanding of how quantitative models can represent human-centric security risks. Previously, I viewed social engineering mainly as a qualitative challenge. Through Aijaz and Nazir’s framework, I learned how statistical modelling — particularly Markov Chains and Attack Trees — can quantify attacker behaviour and success probability.
-The focus on persuasion principles also reinforced that human factors are measurable and should be treated as key risk variables. I now appreciate that combining behavioural science with data analytics enables more accurate risk prediction and policy design.
-This learning directly supports my professional goal of implementing data-driven awareness and risk governance frameworks that blend psychology, statistics, and cybersecurity practice.
+- Aijaz, M. and Nazir, M. (2024) ‘Modelling and Evaluating Social Engineering Threats in Cyber Systems’, *Journal of Information Security and Applications,* 75, pp. 102–119.  
+- Cialdini, R. (2007) *Influence: The Psychology of Persuasion.* New York: HarperCollins.  
+- ISO (2018) *ISO 31000:2018 – Risk Management — Guidelines.* Geneva: International Organization for Standardization.  
 
-References
-
-Aijaz, M. and Nazir, M. (2024) Modelling and Evaluating Social Engineering Threats in Cyber Systems. Journal of Information Security and Applications, 75, pp. 102–119.
-
-Cialdini, R. (2007) Influence: The Psychology of Persuasion. New York: HarperCollins.
-
-ISO (2018) ISO 31000:2018 – Risk Management — Guidelines. Geneva: ISO.
+---
